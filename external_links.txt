@@ -1,0 +1,2 @@
+models: https://drive.google.com/drive/folders/1xGrq1e_LAHZhXmX3JV16xswkld8iTn0n?usp=drive_link
+tensorboard_logs: https://drive.google.com/drive/folders/1aWS5CloeW8qkYz5TSmJ9jVqXm_dMj4Ma?usp=drive_link
